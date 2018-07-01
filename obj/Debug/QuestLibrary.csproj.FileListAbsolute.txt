@@ -1,0 +1,6 @@
+C:\Users\jjans\Desktop\Projects\C#\QuestLibrary\QuestLibrary\bin\Debug\QuestLibrary.dll
+C:\Users\jjans\Desktop\Projects\C#\QuestLibrary\QuestLibrary\bin\Debug\QuestLibrary.pdb
+C:\Users\jjans\Desktop\Projects\C#\QuestLibrary\QuestLibrary\obj\Debug\QuestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jjans\Desktop\Projects\C#\QuestLibrary\QuestLibrary\obj\Debug\QuestLibrary.dll
+C:\Users\jjans\Desktop\Projects\C#\QuestLibrary\QuestLibrary\obj\Debug\QuestLibrary.pdb
+C:\Users\jjans\Desktop\Projects\C#\QuestLibrary\QuestLibrary\obj\Debug\QuestLibrary.csprojResolveAssemblyReference.cache
